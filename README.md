@@ -1,2 +1,3 @@
-# advanced-project-planner-0d1q
+# Advanced Project Planner 0D1Q
+
 A project planning and management tool for modern development workflows.
